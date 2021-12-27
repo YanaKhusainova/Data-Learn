@@ -14,4 +14,8 @@
 - Логическая модель
 <img width="497" alt="Логическая модель" src="https://user-images.githubusercontent.com/63101910/147456213-9f8583dd-5a6a-4923-8dc6-833b296fc2e6.png">
 
+-Физическая модель
+<img width="509" alt="Физическая модель" src="https://user-images.githubusercontent.com/63101910/147457537-d6c37d18-4059-48b5-99d9-440fcf4fdb82.png">
+
+
 
