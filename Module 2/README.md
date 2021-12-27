@@ -6,3 +6,7 @@
 - [orders.sql](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/orders.sql)
 - [people.sql](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/people.sql)
 - [returns.sql](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/returns.sql)
+
+## 2.4 Модели данных
+<img width="480" alt="концептульная модель" src="https://user-images.githubusercontent.com/63101910/147455861-d853843b-a088-4c12-a737-b38fb986e491.png">
+
