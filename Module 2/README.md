@@ -11,3 +11,7 @@
 - Концептульная модель
 <img width="480" alt="концептульная модель" src="https://user-images.githubusercontent.com/63101910/147455861-d853843b-a088-4c12-a737-b38fb986e491.png">
 
+- Логическая модель
+<img width="497" alt="Логическая модель" src="https://user-images.githubusercontent.com/63101910/147456213-9f8583dd-5a6a-4923-8dc6-833b296fc2e6.png">
+
+
