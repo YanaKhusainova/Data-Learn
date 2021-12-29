@@ -24,7 +24,7 @@ select 100+row_number() over() as prod_id,
                                     product_name,
                                     product_id   from public.orders) as a;
                                     
---insert oreder_date
+--insert order_date
 insert into public.order_date_dim
 select 100+row_number() over() as order_date_id,
 								order_date,
