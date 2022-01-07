@@ -48,3 +48,23 @@ select 100+roe_number() over() as ship_date_dim_as,
 				extract(month from orders.shup_date),
 				extract(week from orders.shup_date)
 			from orders
+			
+--insert sales_fact
+insert into sales_fact
+select 	row_number() over() as row_id,		
+						order_id,
+						order_date_id,
+						ship_date_dim_id,
+						ship_id,
+						geo_id,
+						product_dim_id,
+						sales,
+						quantity,
+						discount,
+						profit
+		from orders as o
+inner join order_date_dim as od on o.order_date = od.order_date
+inner join ship_date_dim as sh on o.ship_date = sh.ships_date
+inner join shipping_dim as ss on o.ship_mode = ss.ship_mode
+inner join geography_dim as gp on o.city = gp.city and o.state=gp.state and o.postal_code = gp.postal_code
+inner join product_dim as pr on o.product_id = pr.product_id
