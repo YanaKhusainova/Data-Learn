@@ -62,9 +62,14 @@ select 	row_number() over() as row_id,
 						quantity,
 						discount,
 						profit
-		from orders as o
-inner join order_date_dim as od on o.order_date = od.order_date
-inner join ship_date_dim as sh on o.ship_date = sh.ships_date
-inner join shipping_dim as ss on o.ship_mode = ss.ship_mode
-inner join geography_dim as gp on o.city = gp.city and o.state=gp.state and o.postal_code = gp.postal_code
-inner join product_dim as pr on o.product_id = pr.product_id
+			from orders as o
+inner join 
+	order_date_dim as od on o.order_date = od.order_date
+inner join 
+	ship_date_dim as sh on o.ship_date = sh.ships_date
+inner join 
+	shipping_dim as ss on o.ship_mode = ss.ship_mode
+inner join 
+	geography_dim as gp on o.city = gp.city and o.state=gp.state and o.postal_code = gp.postal_code
+inner join 
+	product_dim as pr on o.product_id = pr.product_id
