@@ -29,5 +29,5 @@
 ## 2.6 Как донести данные до бизнес-пользоваиеля
 
 Пример дашборда на Google data studio
-file:///C:/Users/user/Downloads/Superstore.pdf
+(file:///C:/Users/user/Downloads/Superstore.pdf)
 
