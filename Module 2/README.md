@@ -17,5 +17,17 @@
 - Физическая модель
 <img width="509" alt="Физическая модель" src="https://user-images.githubusercontent.com/63101910/147457537-d6c37d18-4059-48b5-99d9-440fcf4fdb82.png">
 
+***Практика***
+-[DDL - создание таблиц](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/DDL.sql)
+-[Insert - наполнение таблиц](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/insert_data.sql)
 
+## 2.5 База данных в облаке AWS
+- Срздание аккаунта в AWS
+- Развертывание БД в AWS
+- Подключение к БД с помощью endpoint и загрузка данных из 2.3 и 2.4
+
+## 2.6 Как донести данные до бизнес-пользоваиеля
+
+Пример дашборда на Google data studio
+<C:\Users\user\Downloads>
 
