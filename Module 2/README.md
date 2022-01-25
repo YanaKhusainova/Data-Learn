@@ -29,5 +29,6 @@
 ## 2.6 Как донести данные до бизнес-пользоваиеля
 
 Пример дашборда на Google data studio
-(file:///C:/Users/user/Downloads/Superstore.pdf)
+![screencapture-datastudio-google-reporting-ebea44ed-362c-4087-a617-f39681b49f4b-page-FtGjC-2022-01-25-16_30_26](https://user-images.githubusercontent.com/63101910/150987277-fbceb372-066e-4ea2-a97e-e9c436f72bfd.png)
+
 
