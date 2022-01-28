@@ -18,6 +18,7 @@
 <img width="509" alt="Физическая модель" src="https://user-images.githubusercontent.com/63101910/147457537-d6c37d18-4059-48b5-99d9-440fcf4fdb82.png">
 
 ***Практика***
+
 -[DDL - создание таблиц](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/DDL.sql)
 
 -[Insert - наполнение таблиц](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/insert_data.sql)
