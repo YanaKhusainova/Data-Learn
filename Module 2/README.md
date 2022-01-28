@@ -19,6 +19,7 @@
 
 ***Практика***
 -[DDL - создание таблиц](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/DDL.sql)
+
 -[Insert - наполнение таблиц](https://github.com/YanaKhusainova/Data-Learn/blob/main/Module%202/insert_data.sql)
 
 ## 2.5 База данных в облаке AWS
